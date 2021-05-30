@@ -7,3 +7,10 @@ class Todo(BaseModel):
     title : str
     # description of todo app  
     description: str
+    
+
+# class User(BaseModel):
+#     first_name: str
+#     last_name: str
+#     email: str
+#     password: str
